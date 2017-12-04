@@ -20,9 +20,9 @@
 # 2.我也要参与
 ## 1.[进入A股垃圾股集合](https://shotdown123.github.io/TrashStock/)
 ![](https://github.com/ShotDown123/TrashStock/blob/master/8.png)
-## 2.点击也变中的如下界面
+## 2.点击页面中的如下界面
 ![](https://github.com/ShotDown123/TrashStock/blob/master/9.png)
-## 3.进行fork，点击下图中按钮
+## 3.进行fork，点击上图中按钮
 ![](https://github.com/ShotDown123/TrashStock/blob/master/10.png)
 ## 4.显示如下
 ![](https://github.com/ShotDown123/TrashStock/blob/master/11.png)
