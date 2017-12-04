@@ -18,7 +18,7 @@
 ## 7. 点击之后进入页面之后注册就大功告成了。页面别关闭，后面还有用。
 
 # 2.我也要参与
-## 1.[进入A股垃圾股集合](https://shotdown123.github.io/TrashStock/)
+## 1.[进入A股垃圾股集合页面](https://shotdown123.github.io/TrashStock/)
 ![](https://github.com/ShotDown123/TrashStock/blob/master/8.png)
 ## 2.点击页面中的如下界面
 ![](https://github.com/ShotDown123/TrashStock/blob/master/9.png)
